@@ -5,5 +5,5 @@
 layout: home
 title: Redirecting
 redirect_to:
-  - https://scfab.github.io/2018/
+  - https://scfab.github.io/2019/
 ---
